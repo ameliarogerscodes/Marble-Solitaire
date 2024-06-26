@@ -1,0 +1,1 @@
+Developed multiple variations of Marble Solitaire including European and Triangular versions, with unique board shapes and movement rules, leveraging the model-view-controller (MVC) architecture for minimal code duplication and easy feature addition.
